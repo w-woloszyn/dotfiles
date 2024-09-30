@@ -1,0 +1,9 @@
+# Ignore the entire dotfiles folder
+dotfiles/
+
+# But don't ignore specific files inside the dotfiles/nvchad directory
+!dotfiles/nvchad/
+!dotfiles/nvchad/chadrc.lua
+!dotfiles/nvchad/init.lua
+!dotfiles/nvchad/plugins.lua
+
